@@ -1,0 +1,14 @@
+C:\Users\corne\source\repos\Examen2doParcial\Examen2doParcial\bin\Debug\netcoreapp3.1\Examen2doParcial.exe
+C:\Users\corne\source\repos\Examen2doParcial\Examen2doParcial\bin\Debug\netcoreapp3.1\Examen2doParcial.deps.json
+C:\Users\corne\source\repos\Examen2doParcial\Examen2doParcial\bin\Debug\netcoreapp3.1\Examen2doParcial.runtimeconfig.json
+C:\Users\corne\source\repos\Examen2doParcial\Examen2doParcial\bin\Debug\netcoreapp3.1\Examen2doParcial.runtimeconfig.dev.json
+C:\Users\corne\source\repos\Examen2doParcial\Examen2doParcial\bin\Debug\netcoreapp3.1\Examen2doParcial.dll
+C:\Users\corne\source\repos\Examen2doParcial\Examen2doParcial\bin\Debug\netcoreapp3.1\Examen2doParcial.pdb
+C:\Users\corne\source\repos\Examen2doParcial\Examen2doParcial\obj\Debug\netcoreapp3.1\Examen2doParcial.csproj.AssemblyReference.cache
+C:\Users\corne\source\repos\Examen2doParcial\Examen2doParcial\obj\Debug\netcoreapp3.1\Examen2doParcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corne\source\repos\Examen2doParcial\Examen2doParcial\obj\Debug\netcoreapp3.1\Examen2doParcial.AssemblyInfoInputs.cache
+C:\Users\corne\source\repos\Examen2doParcial\Examen2doParcial\obj\Debug\netcoreapp3.1\Examen2doParcial.AssemblyInfo.cs
+C:\Users\corne\source\repos\Examen2doParcial\Examen2doParcial\obj\Debug\netcoreapp3.1\Examen2doParcial.csproj.CoreCompileInputs.cache
+C:\Users\corne\source\repos\Examen2doParcial\Examen2doParcial\obj\Debug\netcoreapp3.1\Examen2doParcial.dll
+C:\Users\corne\source\repos\Examen2doParcial\Examen2doParcial\obj\Debug\netcoreapp3.1\Examen2doParcial.pdb
+C:\Users\corne\source\repos\Examen2doParcial\Examen2doParcial\obj\Debug\netcoreapp3.1\Examen2doParcial.genruntimeconfig.cache
